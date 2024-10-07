@@ -4,9 +4,9 @@ Lets you delete any element from a webpage or add any deleted element back (if u
 
 ---
 
-hold ` ctrl + d ` then ` click ` on the element to delete it
+hold ` d ` then ` click ` on the element to delete it
 
-hold ` ctrl + e ` then ` click ` on the page anywhere to add the recently deleted element back
+hold ` e ` then ` click ` on the page anywhere to add the recently deleted element back
 
 ---
 
